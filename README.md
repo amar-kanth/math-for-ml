@@ -20,3 +20,6 @@ This repository contains my structured notes and Python implementations of key m
 - Connect math concepts to ML algorithms  
 - Provide simple examples & Python visualizations  
 
+## License
+
+[MIT License](LICENSE)
