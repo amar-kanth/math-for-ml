@@ -20,6 +20,8 @@ This repository contains my structured notes and Python implementations of key m
 - Connect math concepts to ML algorithms  
 - Provide simple examples & Python visualizations  
 
+## Authors
+-[@amar-kanth](https://github.com/amar-kanth)
 ## License
 
 [MIT License](LICENSE)
